@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Description
+##Project Description
 
 This project is developed in C# using Windows Forms.  
 It simulates a simple and basic XO (Tic-Tac-Toe) game where two players can play against each other on the same computer.
@@ -11,7 +11,7 @@ The game focuses on simplicity and clarity, making it suitable for beginners who
 
 ---
 
-## ✨ Features
+###Features
 
 - Create a two-player mode (Player X vs Player O).
 - Simple and user-friendly graphical interface.
@@ -21,7 +21,7 @@ The game focuses on simplicity and clarity, making it suitable for beginners who
 
 ---
 
-## 🎯 Purpose
+###Purpose
 
 The main purpose of this project is to practice C# programming concepts, especially:
 
@@ -32,12 +32,13 @@ The main purpose of this project is to practice C# programming concepts, especia
 
 ---
 
-## 🛠 Technologies Used
+###Technologies Used
 
 - Language: C#
-- Framework: .NET (Windows Forms)
+- Framework: .NET Framework (Windows Forms)
 - Concepts: OOP, Event Handling, GUI Design
 
 ---
 
-📅 Posted in: 17/10/2026
+ Posted in: 17/10/2026
+
