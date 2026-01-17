@@ -1,0 +1,11 @@
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\bin\Debug\Tic Tac Toc Game.exe.config
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\bin\Debug\Tic Tac Toc Game.exe
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\bin\Debug\Tic Tac Toc Game.pdb
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic Tac Toc Game.csproj.AssemblyReference.cache
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic_Tac_Toc_Game.Form1.resources
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic_Tac_Toc_Game.Properties.Resources.resources
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic Tac Toc Game.csproj.GenerateResource.cache
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic Tac Toc Game.csproj.CoreCompileInputs.cache
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic Tac Toc Game.exe
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic Tac Toc Game.pdb
+D:\Progamming Advices\Course 14 Windows Froms\Tic Tac Toc Game\obj\Debug\Tic Tac Toc Game.exe.config
